@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/meditation.jpg");
+}
+.game-title {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.answers {
+    text-align: center;
+}
